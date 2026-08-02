@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [1021-remove-outermost-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0905-sort-array-by-parity) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
