@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0164-maximum-gap](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0164-maximum-gap) |
 | [0240-search-a-2d-matrix-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0905-sort-array-by-parity](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0164-maximum-gap](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0905-sort-array-by-parity](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0164-maximum-gap) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
