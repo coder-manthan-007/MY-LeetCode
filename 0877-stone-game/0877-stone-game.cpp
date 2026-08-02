@@ -1,49 +1,27 @@
 class Solution {
 public:
-    int solveMem(vector<int> &piles,int i,vector<int> &dp)
-    {
-        if(i >= piles.size()) return 0;
+    bool stoneGame(vector<int>& a) {
+        int n = a.size();
 
-        if(dp[i] != -1) return dp[i];
-
-        int op1 = piles[i] + solveMem(piles,i+2,dp);
-
-        int op2 = 0 + solveMem(piles,i+1,dp);
-
-        int ans = max(op1,op2);
-
-        dp[i] = ans;
-
-        return dp[i];
-    }
-    int solveRec(vector<int> &piles,int i)
-    {
-        if(i >= piles.size()) return 0;
-
-        int op1 = piles[i] + solveRec(piles,i+2);
-
-        int op2 = 0 + solveRec(piles,i+1);
-
-        int ans = max(op1,op2);
-
-        return ans;
-    }
-    bool stoneGame(vector<int>& piles) {
-        sort(piles.begin(),piles.end());
-
-        int sum = 0;
-
-        vector<int> dp(piles.size()+1,-1);
-
-        for(auto i : piles) sum += i;
-
-        int i = 0;
-        int op1 = solveMem(piles,i,dp);
-
-        cout<<op1;
-
-        int op2 = sum - op1;
-
-        return op1 > op2;
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+        function<int(int,int)> dfs = [&](int l, int r) -> int {
+            if (l > r) return 0;
+            if (dp[l][r] != -1) return dp[l][r];
+            int taken =n-(r-l+1);
+            if (taken % 2 == 0) { 
+                return dp[l][r] = max(
+                    a[l] + dfs(l + 1, r),
+                    a[r] + dfs(l, r - 1)
+                );
+            } else {
+                return dp[l][r] = min(
+                    dfs(l + 1, r),
+                    dfs(l, r - 1)
+                );
+            }
+        };
+        int alice=dfs(0, n - 1);
+        int total=accumulate(a.begin(),a.end(),0ll);
+        return alice>total-alice;
     }
 };
