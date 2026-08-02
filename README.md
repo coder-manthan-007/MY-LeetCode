@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
 | [2582-pass-the-pillow](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2582-pass-the-pillow) |
 ## Simulation
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0164-maximum-gap](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0164-maximum-gap) |
 | [0240-search-a-2d-matrix-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
