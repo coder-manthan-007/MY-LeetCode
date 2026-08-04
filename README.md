@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0164-maximum-gap) |
 | [0240-search-a-2d-matrix-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
