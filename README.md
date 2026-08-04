@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [3731-find-missing-elements](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
