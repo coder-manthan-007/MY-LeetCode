@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2582-pass-the-pillow](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2582-pass-the-pillow) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
