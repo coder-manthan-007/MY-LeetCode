@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Matrix
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
