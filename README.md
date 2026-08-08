@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0164-maximum-gap) |
 | [0240-search-a-2d-matrix-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0575-distribute-candies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0278-first-bad-version) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
