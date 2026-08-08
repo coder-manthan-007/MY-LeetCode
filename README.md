@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2582-pass-the-pillow](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2582-pass-the-pillow) |
+| [3099-harshad-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
