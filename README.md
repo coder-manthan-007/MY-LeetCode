@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0036-valid-sudoku](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0299-bulls-and-cows) |
 | [0575-distribute-candies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0008-string-to-integer-atoi](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0299-bulls-and-cows) |
 | [0796-rotate-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0299-bulls-and-cows) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
