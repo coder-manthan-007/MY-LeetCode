@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1901-find-a-peak-element-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
