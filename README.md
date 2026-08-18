@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2582-pass-the-pillow](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2582-pass-the-pillow) |
 | [3099-harshad-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0575-distribute-candies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3731-find-missing-elements) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
