@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0455-assign-cookies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bucket Sort
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0151-reverse-words-in-a-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0905-sort-array-by-parity) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
