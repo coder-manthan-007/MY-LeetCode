@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0575-distribute-candies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0575-distribute-candies) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1021-remove-outermost-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
