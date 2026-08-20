@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0164-maximum-gap) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0299-bulls-and-cows) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0299-bulls-and-cows](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0299-bulls-and-cows) |
