@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0905-sort-array-by-parity](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0796-rotate-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1408-string-matching-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1408-string-matching-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
