@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3731-find-missing-elements](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [2678-number-of-senior-citizens](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3110-score-of-a-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
