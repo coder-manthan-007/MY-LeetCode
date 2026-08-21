@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1408-string-matching-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2364-count-number-of-bad-pairs](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2678-number-of-senior-citizens](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2678-number-of-senior-citizens) |
