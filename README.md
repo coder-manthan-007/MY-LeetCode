@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!.
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Array
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [1021-remove-outermost-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
