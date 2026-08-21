@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0455-assign-cookies) |
 | [0575-distribute-candies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/0605-can-place-flowers) |
 | [1903-largest-odd-number-in-string](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/coder-manthan-007/MY-LeetCode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
